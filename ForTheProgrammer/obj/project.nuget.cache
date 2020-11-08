@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "EDTcOiuwIobXTeHU3khr4JK2b8twaZfMKkdt1lrqLX4l33P53WN8c4dIEuVuBNCY0YoOLhV92luCxpTguHBJNQ==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\personal\\for-the-programmer-api\\ForTheProgrammer\\ForTheProgrammer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heinr\\.nuget\\packages\\fluentassertions\\5.10.3\\fluentassertions.5.10.3.nupkg.sha512",
+    "C:\\Users\\heinr\\.nuget\\packages\\fluentmigrator\\3.2.9\\fluentmigrator.3.2.9.nupkg.sha512",
+    "C:\\Users\\heinr\\.nuget\\packages\\fluentmigrator.abstractions\\3.2.9\\fluentmigrator.abstractions.3.2.9.nupkg.sha512",
+    "C:\\Users\\heinr\\.nuget\\packages\\fluentscheduler\\5.5.1\\fluentscheduler.5.5.1.nupkg.sha512",
+    "C:\\Users\\heinr\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512",
+    "C:\\Users\\heinr\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.0.0\\microsoft.extensions.dependencyinjection.2.0.0.nupkg.sha512",
+    "C:\\Users\\heinr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\heinr\\.nuget\\packages\\microsoft.extensions.options\\2.0.1\\microsoft.extensions.options.2.0.1.nupkg.sha512",
+    "C:\\Users\\heinr\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\heinr\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\heinr\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\heinr\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Users\\heinr\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
+    "C:\\Users\\heinr\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
